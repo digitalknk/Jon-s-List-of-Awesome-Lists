@@ -32,6 +32,10 @@ Suggestions and contributions are always welcome.
 
 [Awesome Python](https://github.com/vinta/awesome-python) - *awesome Python frameworks, libraries and software*
 
+[Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) - *awesome resources where you can learn more about Linux*
+
+[Awesome Electron](https://github.com/sindresorhus/awesome-electron) - *Useful resources for creating apps with Electron*
+
 ---
 ## License
 
