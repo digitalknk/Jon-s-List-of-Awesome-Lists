@@ -16,6 +16,12 @@ Suggestions and contributions are always welcome.
 
 [Awesome Anime](https://github.com/arkhamdev/awesome-anime) - *anime worth watching*
 
+[Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) - *list of delightful productivity resources.*
+
+[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - *list of awesome remote jobs and resources.*
+
+
+
 ---
 ## License
 
