@@ -20,6 +20,10 @@ Suggestions and contributions are always welcome.
 
 [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) - *list of awesome remote jobs and resources.*
 
+[Awesome Gists](https://github.com/vsouza/awesome-gists) - *amazing gists you must see.*
+
+[Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles) - *list of dotfiles resources.*
+
 
 
 ---
