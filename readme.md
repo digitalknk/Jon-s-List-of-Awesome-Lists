@@ -24,7 +24,9 @@ Suggestions and contributions are always welcome.
 
 [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles) - *list of dotfiles resources.*
 
+[Awesome OSX](https://github.com/iCHAIT/awesome-osx) - *list of awesome applications, softwares, tools and shiny things for OS X.*
 
+[Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - *Use your OS X terminal shell to do awesome things.*
 
 ---
 ## License
