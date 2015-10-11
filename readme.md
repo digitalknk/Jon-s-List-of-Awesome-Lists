@@ -12,6 +12,10 @@ Suggestions and contributions are always welcome.
 
 [Awesome SysAdmin](https://github.com/kahun/awesome-sysadmin) - *list of amazingly awesome open source sysadmin resources*
 
+[Awesome GitHub](https://github.com/phillipadsmith/awesome-github) - *list of GitHub's awesomeness*
+
+[Awesome Anime](https://github.com/arkhamdev/awesome-anime) - *anime worth watching*
+
 ---
 ## License
 
