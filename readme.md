@@ -36,6 +36,10 @@ Suggestions and contributions are always welcome.
 
 [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - *Useful resources for creating apps with Electron*
 
+[Awesome Ruby](https://github.com/markets/awesome-ruby) - *awesome Ruby libraries, tools, frameworks and software*
+
+[Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - *list of Web Performance Optimization.*
+
 ---
 ## License
 
