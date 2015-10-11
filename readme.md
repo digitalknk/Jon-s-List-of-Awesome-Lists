@@ -28,6 +28,10 @@ Suggestions and contributions are always welcome.
 
 [Awesome OSX Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - *Use your OS X terminal shell to do awesome things.*
 
+[Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - *awesome browser-side JavaScript libraries, resources and shiny things.*
+
+[Awesome Python](https://github.com/vinta/awesome-python) - *awesome Python frameworks, libraries and software*
+
 ---
 ## License
 
