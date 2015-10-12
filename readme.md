@@ -1,7 +1,7 @@
 # Jon's List of Awesome Lists
 ---
 
-Just my own collection of *"Awesome Lists"* that I want to follow but don't want to star since I am trying to keep up my stars. I have no plans to add my list to another awesome list, it does not compliy by [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+Just my own collection of *Awesome Lists* that I want to follow but don't want to star since I am trying to keep up my stars. I have no plans to add my list to another awesome list, it does not comply by [The awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Suggestions and contributions are always welcome.
 
