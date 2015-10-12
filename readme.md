@@ -5,7 +5,7 @@ Just my own collection of *Awesome Lists* that I want to follow but don't want t
 
 Suggestions and contributions are always welcome.
 
-**Start here!** The list to rule all awesome lists [Awesome](https://github.com/sindresorhus/awesome) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+**Start here!** The list to rule all awesome lists 👉 [Awesome](https://github.com/sindresorhus/awesome) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 👍
 
 ---
 [Awesome Community](https://github.com/peterkokot/awesome-community) - *list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things*
