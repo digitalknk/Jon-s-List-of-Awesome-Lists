@@ -44,6 +44,12 @@ Suggestions and contributions are always welcome.
 
 [Awesome Images](https://github.com/heyalexej/awesome-images) - *list of amazingly awesome free (stock) photo resources*
 
+[Awesome Shell](https://github.com/alebcay/awesome-shell) - *list of awesome command-line frameworks, toolkits, guides and gizmos.*
+
+[Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md#awesome-mysql) - *list of awesome MySQL software, libraries and resources.*
+
+[Minimalist Frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks) - *list of minimalist frameworks (simple and lightweight).*
+
 ---
 ## License
 
