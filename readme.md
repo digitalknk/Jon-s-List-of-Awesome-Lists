@@ -34,6 +34,8 @@ Suggestions and contributions are always welcome.
 
 [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux) - *awesome resources where you can learn more about Linux*
 
+[Awesome Nginx](https://github.com/agile6v/awesome-nginx) - *list of awesome Nginx distributions、third modules、active developers and so forth*
+
 [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - *Useful resources for creating apps with Electron*
 
 [Awesome Ruby](https://github.com/markets/awesome-ruby) - *awesome Ruby libraries, tools, frameworks and software*
