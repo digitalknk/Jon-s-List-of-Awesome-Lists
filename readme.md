@@ -44,7 +44,7 @@ Suggestions and contributions are always welcome.
 
 [Awesome Networking](https://github.com/clowwindy/Awesome-Networking) - *list of awesome networking libraries, resources and shiny things (Hasn't been updated Feb/2016 as of Jul/2020)*
 
-[Awesome Images](https://github.com/heyalexej/awesome-images) - *list of amazingly awesome free (stock) photo resources*
+[Awesome Images](https://github.com/heyalexej/awesome-images) - *list of amazingly awesome free (stock) photo resources (Hasn't been updated Sept/2018 as of Jul/2020)*
 
 [Awesome Shell](https://github.com/alebcay/awesome-shell) - *list of awesome command-line frameworks, toolkits, guides and gizmos.*
 
