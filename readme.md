@@ -42,7 +42,7 @@ Suggestions and contributions are always welcome.
 
 [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - *list of Web Performance Optimization.*
 
-[Awesome Networking](https://github.com/clowwindy/Awesome-Networking) - *list of awesome networking libraries, resources and shiny things*
+[Awesome Networking](https://github.com/clowwindy/Awesome-Networking) - *list of awesome networking libraries, resources and shiny things (Hasn't been updated Feb/2016 as of Jul/2020)*
 
 [Awesome Images](https://github.com/heyalexej/awesome-images) - *list of amazingly awesome free (stock) photo resources*
 
